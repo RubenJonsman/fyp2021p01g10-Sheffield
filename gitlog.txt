@@ -1,0 +1,633 @@
+commit f00a5f0105707a23e93b85773aa74dcd1e4b312b
+Author: rubj <rubj@itu.dk>
+Date:   Thu Feb 25 16:31:14 2021 +0100
+
+    ...
+
+commit 76f8f104de2586edfc2b2e7f060f5875bab3a906
+Author: rubj <rubj@itu.dk>
+Date:   Thu Feb 25 16:28:09 2021 +0100
+
+    Last touches
+
+commit 27d8e6345f84ddca49a244289f1fba3eeb18af31
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Thu Feb 25 15:29:01 2021 +0100
+
+    Delete placeholder.txt
+
+commit 18db0f7498801efad9dc1ec894f3746744792851
+Author: rubj <rubj@itu.dk>
+Date:   Thu Feb 25 14:10:27 2021 +0100
+
+    More changes
+
+commit ea82547e5305cea8824a90e851db3573ace48110
+Author: rubj <rubj@itu.dk>
+Date:   Thu Feb 25 13:57:35 2021 +0100
+
+    Fixed some plots
+
+commit 7044057ef18f571916febb7f952381f38d8b3f0f
+Author: rubj <rubj@itu.dk>
+Date:   Thu Feb 25 11:33:54 2021 +0100
+
+    Last touches
+    
+    We still missing task 2 associations to be polished
+
+commit 32005683a49790423f7f0207d9e2b644c66fc0a8
+Author: rubj <rubj@itu.dk>
+Date:   Thu Feb 25 10:01:12 2021 +0100
+
+    changes
+
+commit 4b30ceb6be147d6d71f441dfb701fe16c5821730
+Author: klitdob <klit@itu.dk>
+Date:   Wed Feb 24 23:51:29 2021 +0100
+
+    updated my part in the main_kata
+
+commit 0b85aabbe126d5426622911e90e03989f06af64e
+Author: IbenH <78601601+IbenH@users.noreply.github.com>
+Date:   Wed Feb 24 13:03:41 2021 +0100
+
+    Task 2
+
+commit 08d2613333f690387ad415207a09a836e7ae4753
+Author: IbenH <78601601+IbenH@users.noreply.github.com>
+Date:   Wed Feb 24 12:53:03 2021 +0100
+
+    updated assosiations
+    
+    with final notes
+
+commit d0663f631181ad066767ca137e4a6bb1d9868867
+Author: IbenH <78601601+IbenH@users.noreply.github.com>
+Date:   Wed Feb 24 12:02:18 2021 +0100
+
+    Assosiations
+
+commit 73c8181ee47cc635a8279236def857507b6d7593
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Tue Feb 23 18:58:18 2021 +0100
+
+    florian_final_plots
+
+commit 14078923dbec90de69697c0e4efe394e32ecd3b6
+Author: rubj <rubj@itu.dk>
+Date:   Tue Feb 23 17:02:26 2021 +0100
+
+    Task 3, map viz
+
+commit 98147773a47ba22edb5289d60b5680fc878645f6
+Author: rubj <rubj@itu.dk>
+Date:   Tue Feb 23 14:31:37 2021 +0100
+
+    stuff
+
+commit 1ac1aff6672ad97adfbc387a60d7c7eb42e2cfa4
+Author: rubj <rubj@itu.dk>
+Date:   Mon Feb 22 20:11:41 2021 +0100
+
+    Fixed barplots
+
+commit 91f3a54bff2cdfec9f955b6ed3ab49cd2cc77ec5
+Author: rubj <rubj@itu.dk>
+Date:   Mon Feb 22 19:56:43 2021 +0100
+
+    Task 4 to main
+
+commit 048f97bdfcbab349136cc1d561bba7c836d8dae9
+Author: rubj <rubj@itu.dk>
+Date:   Mon Feb 22 19:51:14 2021 +0100
+
+    Task 4
+
+commit 98a98862ccdca2a25c49829508d5fce531c94579
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 22 13:21:40 2021 +0100
+
+    monday_update
+
+commit d18abf1a5c3712e42a8dcb6b0fa82b56b13453a2
+Author: klitdob <klit@itu.dk>
+Date:   Sun Feb 21 14:37:21 2021 +0100
+
+    boxplot again
+
+commit f70d81f6c286fbcb081ad61f5db9fc2c34e3af62
+Author: klitdob <klit@itu.dk>
+Date:   Sat Feb 20 23:09:18 2021 +0100
+
+    new boxplot ideas - not ready
+
+commit 413cbeb227e41a08f37d4871dd66df0564209c1e
+Author: klitdob <klit@itu.dk>
+Date:   Sat Feb 20 22:15:49 2021 +0100
+
+    my stuff in the main
+
+commit ad8a80bcfbefe92da424852084ea6f1e6b5ac0dc
+Author: rubj <rubj@itu.dk>
+Date:   Sat Feb 20 19:09:31 2021 +0100
+
+    light conditions plot fix
+
+commit 07cc14273c51ce73c84496bfb691d05093cc3862
+Author: rubj <rubj@itu.dk>
+Date:   Sat Feb 20 16:32:40 2021 +0100
+
+    Code refactoring and structuring notebook
+
+commit 2118844ccb02407997d489958be14a79678071db
+Author: klitdob <klit@itu.dk>
+Date:   Sat Feb 20 13:54:37 2021 +0100
+
+    connecting tables
+
+commit d90975db9df0556d5dca7e843ea85d6cd382d9a1
+Author: rubj <rubj@itu.dk>
+Date:   Fri Feb 19 16:06:32 2021 +0100
+
+    code re-factoring and added explanatory text
+
+commit 425d9cac4e4ee04d5217cfd54d4eea30588bde34
+Author: klitdob <klit@itu.dk>
+Date:   Fri Feb 19 14:14:44 2021 +0100
+
+    more bar plots for the story
+
+commit 53be9cb47de23279f047a8041b9e5ea72ebb6f8c
+Merge: a65987d 58b697a
+Author: IbenH <78601601+IbenH@users.noreply.github.com>
+Date:   Fri Feb 19 10:55:32 2021 +0100
+
+    Merge branch 'master' of https://github.itu.dk/flmi/First-Year-Project
+
+commit a65987d3ef34e15a4bd183e34a16131ab4d6c29b
+Author: IbenH <78601601+IbenH@users.noreply.github.com>
+Date:   Fri Feb 19 10:53:20 2021 +0100
+
+    Assosiations ish
+
+commit 58b697a753e2038559ae7ea8dd0fcedba0f53a68
+Author: rubj <rubj@itu.dk>
+Date:   Wed Feb 17 00:13:08 2021 +0100
+
+    categorical scatterplots to explore combinations of numerical and categorical variables
+
+commit 2c7e5a42e0e21a9aee4dc1aee9831d11ec25e5c5
+Author: rubj <rubj@itu.dk>
+Date:   Tue Feb 16 14:49:56 2021 +0100
+
+    Graph refactoring
+
+commit 051db4f527cb90403066700ea9bf7cb3632cd8ab
+Author: klitdob <klit@itu.dk>
+Date:   Tue Feb 16 13:57:55 2021 +0100
+
+    kata_new file you can see what I did yesterday and during the lecture
+
+commit 4c46e9eebec2fc08c9c4ee35559add0096c7859b
+Author: klitdob <klit@itu.dk>
+Date:   Tue Feb 16 13:42:48 2021 +0100
+
+    moved my own files
+
+commit bbde0612e4fe89f6eb611d1948825318ad38ba26
+Merge: 2bee75a 4f5269b
+Author: klitdob <klit@itu.dk>
+Date:   Tue Feb 16 13:35:46 2021 +0100
+
+    Merge branch 'master' of https://github.itu.dk/flmi/First-Year-Project
+
+commit 2bee75ae7aa5eb06525fca05b507c8b35db202d5
+Author: klitdob <klit@itu.dk>
+Date:   Tue Feb 16 13:34:53 2021 +0100
+
+    my sanity plots are now working, little chi-squared andseaborn
+
+commit 4f5269b76c442bd76c56f7fd1497d201a42c222e
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Tue Feb 16 12:58:48 2021 +0100
+
+    small_xtick change
+
+commit c4ac730c8d2307f2b2c996152b06307f29ecdb14
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 21:09:45 2021 +0100
+
+    small_change
+
+commit 9a33fd497203601b6763e9bb82a1705b6ec15a6e
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 20:41:53 2021 +0100
+
+    small_update2
+
+commit 620d1244c9cb7d04f099006515f11082786d8473
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 20:36:19 2021 +0100
+
+    small_update
+
+commit ab4ddbd70456edb092644e6fb1b2a92b5f147432
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 16:00:12 2021 +0100
+
+    final_update_year
+
+commit 95d1b61a35cb035b62157a67bbcb8166cad69555
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 15:53:23 2021 +0100
+
+    update_year_2
+
+commit 697e12f2186b87af45ae88138e03ec7bcef18960
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 15:52:59 2021 +0100
+
+    update_year
+
+commit 60a8b64315fe6b3b008a00d3d5f490bec93bb0e8
+Author: klitdob <klit@itu.dk>
+Date:   Mon Feb 15 14:01:55 2021 +0100
+
+    updated
+
+commit 31825c7a7ba883f09b50dd708665bcf10a1f8120
+Author: klitdob <klit@itu.dk>
+Date:   Mon Feb 15 13:57:33 2021 +0100
+
+    boxplot_kata, missinno plot
+    
+    missinno plot is not ready
+
+commit 6ea29bac4673fbbd90cff7f014ed33ab2e0db789
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 13:24:13 2021 +0100
+
+    added_values
+
+commit c571813fc22ab354b48d9d99b9b8078d09181ee2
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 13:22:06 2021 +0100
+
+    Florian_plots_updated
+
+commit a2c5616e3cc65f4676424359093a0a4a8d796fe6
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 13:21:39 2021 +0100
+
+    Florian_plots
+
+commit ffc63d66d2d61d0ee1ae3261cd9c9b501d6a549b
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 13:13:09 2021 +0100
+
+    an update idk
+
+commit 49f8560d9b8ddd5682324231789a5c1d6e815499
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 13:10:43 2021 +0100
+
+    Revert "Florian_Plots"
+    
+    This reverts commit 876d7fcdd3c6a7f9b7fe65ecc4ab81cd9abe3cfd.
+
+commit afc2089d47b50c173012e93279af519886f6d820
+Merge: 22a4a0b 876d7fc
+Author: rubj <rubj@itu.dk>
+Date:   Mon Feb 15 12:51:22 2021 +0100
+
+    Merge branch 'master' of https://github.itu.dk/flmi/First-Year-Project
+
+commit 22a4a0bd012d034148a82ff369e24ac160b5d44f
+Author: rubj <rubj@itu.dk>
+Date:   Mon Feb 15 12:51:16 2021 +0100
+
+    backup file
+
+commit 876d7fcdd3c6a7f9b7fe65ecc4ab81cd9abe3cfd
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Mon Feb 15 12:47:47 2021 +0100
+
+    Florian_Plots
+
+commit 76d49641996bfa0bf4935f0bbefc805e1b83010d
+Author: rubj <rubj@itu.dk>
+Date:   Mon Feb 15 12:43:58 2021 +0100
+
+    Initial plot of town with accidents severity
+
+commit 37cbd5c89d371676d5d1f62b82a2ffb1ae6c6e61
+Author: rubj <rubj@itu.dk>
+Date:   Mon Feb 15 12:17:59 2021 +0100
+
+    day week frequency of road collisions sheffield
+
+commit 7c1459036df16906d5e238975331ea23654b0a4f
+Author: rubj <rubj@itu.dk>
+Date:   Mon Feb 15 12:10:55 2021 +0100
+
+    Pushing Frequency Histograms
+
+commit 20a4c1ec0a8928be0d59b320983b394c58b4b937
+Author: klitdob <klit@itu.dk>
+Date:   Mon Feb 15 11:41:44 2021 +0100
+
+    sanity, box, bar
+    
+    write in the terminal: conda install -c conda-forge/label/cf202003 missingno
+
+commit 5ac25cba49f2f0ec61c4ed6eb48d6ac0dea07551
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Fri Feb 12 16:31:57 2021 +0100
+
+    updated something to do it faster
+
+commit 4f684ef2f5ec3bec94932defbfc010b44cc0464d
+Author: Louis Brandt <locb@itu.dk>
+Date:   Fri Feb 12 16:27:22 2021 +0100
+
+    main notebook v1 louis
+
+commit dea109e17361ae052919c3f70a51d459281a9287
+Merge: 50c3ae2 f200db0
+Author: Louis Brandt <locb@itu.dk>
+Date:   Fri Feb 12 14:57:14 2021 +0100
+
+    Merge branch 'master' of https://github.itu.dk/flmi/First-Year-Project
+
+commit 50c3ae24429ea790b80a2b29707675edc52ec29b
+Author: Louis Brandt <locb@itu.dk>
+Date:   Fri Feb 12 14:56:08 2021 +0100
+
+    notebook_main v1 update louis
+
+commit f200db077d7902723212a9887a8a270b116c4bb3
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Fri Feb 12 14:43:01 2021 +0100
+
+    Update notebook_main.ipynb
+
+commit 73888d0d5239eeaedccd422a9e668c97e9a25ca4
+Author: Louis Brandt <locb@itu.dk>
+Date:   Fri Feb 12 14:42:38 2021 +0100
+
+    main notebook update v1 louis
+
+commit 5a8fa5990822df88a82b666c3a5559d55fdb27ec
+Merge: bef2785 0553826
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Fri Feb 12 13:54:35 2021 +0100
+
+    Merge pull request #4 from flmi/update2-boxplots-try
+    
+    Update notebook_main.ipynb
+
+commit 05538263bf6677dc4db16ca3349b2786cffac586
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Fri Feb 12 13:53:43 2021 +0100
+
+    Update notebook_main.ipynb
+
+commit bef27853fe480520c8ac4e69ca0fc9e41995df6a
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Fri Feb 12 13:48:47 2021 +0100
+
+    Update notebook_main.ipynb
+
+commit 6189afb34c24044ff22ad647e061ee0825ee2429
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Fri Feb 12 13:47:06 2021 +0100
+
+    Update notebook_main.ipynb
+
+commit 3cd1f19a57ce5a7b32d38e58d16ec95c2051efbd
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Fri Feb 12 13:40:04 2021 +0100
+
+    Update notebook_main.ipynb
+
+commit b8c5067dc251f7989c17cbd06aa8cd608b9f8ed8
+Merge: f2afc79 6eb499d
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Fri Feb 12 13:37:16 2021 +0100
+
+    Merge pull request #3 from flmi/update-box-plot
+    
+    Update notebook_main.ipynb
+
+commit 6eb499d1027662261d91786b78c17926f1690d93
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Fri Feb 12 13:35:44 2021 +0100
+
+    Update notebook_main.ipynb
+
+commit f2afc79c23127a2090580b437961461e0b03c625
+Author: Louis Brandt <locb@itu.dk>
+Date:   Fri Feb 12 13:33:10 2021 +0100
+
+    git add notebook_main.ipynb
+
+commit 91aa71de4aaee4a49907c890eefaccece7946ee9
+Merge: 29c2714 971c49d
+Author: Louis Brandt <locb@itu.dk>
+Date:   Thu Feb 11 18:33:22 2021 +0100
+
+    Merge branch 'master' of https://github.itu.dk/flmi/First-Year-Project
+
+commit 29c2714f85bb37fd4d7e46e45b051d4e16295279
+Author: Louis Brandt <locb@itu.dk>
+Date:   Thu Feb 11 18:29:00 2021 +0100
+
+    git add
+
+commit 971c49dcf9392749f982d05301c9cec66a0c5a87
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Thu Feb 11 15:32:31 2021 +0100
+
+    Delete shopping_ruben.txt
+
+commit 7a900f5dde43000b360e02763bf155bfaff34a08
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Thu Feb 11 15:32:25 2021 +0100
+
+    Delete ship_shop_kata.txt
+
+commit 66bb9435c2ccacb82b7947a3f4a989cfeac91028
+Author: klitdob <klit@itu.dk>
+Date:   Thu Feb 11 14:37:07 2021 +0100
+
+    one more boxplot
+
+commit 7b723325e0eb4667759f2ccfc668a866c64f3ff9
+Author: klitdob <klit@itu.dk>
+Date:   Thu Feb 11 14:27:30 2021 +0100
+
+    practice github - started listing diff datatypes - not correct
+
+commit 9c68def04a56c746d0381c66d4601138f8570929
+Merge: 011b907 51cf17a
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Thu Feb 11 09:21:21 2021 +0100
+
+    Merge pull request #1 from flmi/kata
+    
+    Add files via upload
+
+commit 51cf17af91f6cb310c0d26656fb41ace6d230469
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Thu Feb 11 09:18:42 2021 +0100
+
+    Add files via upload
+
+commit 011b907f301c18392fb74a58f9a8ecded4a63974
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 23:17:41 2021 +0100
+
+    Frequency Histograms done
+
+commit 65722cb072a93f0645b0682b7de7c18316b5e59b
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Tue Feb 9 18:33:29 2021 +0100
+
+    Rename initialdataexploration.ipynb to test.ipynb
+
+commit 11f9486265a4287cb61a540d440a6cd9817915a8
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 18:32:06 2021 +0100
+
+    Started on the exercises
+
+commit 56060713528dfe6f3ef989ec81e335e960c746fa
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:59:00 2021 +0100
+
+    Added notebook
+
+commit c0b8d7ac6cdbb0f20accf03821d6e835b6e4164f
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:54:10 2021 +0100
+
+    the right files
+
+commit 0fd68fd3081b5cc6e122cc387154610e1b86d97f
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:52:48 2021 +0100
+
+    created folder
+
+commit 457cdf8f88ff3c44056785a30e75b36d597540d0
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:50:58 2021 +0100
+
+    added folder
+
+commit 2e5eda3bdeed62e445354bd6c7bc4ed38f01d2d5
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:50:30 2021 +0100
+
+    created file
+
+commit 6beef2f4a3d9fde56ee8c4f2114201952f816c67
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:49:15 2021 +0100
+
+    added folder
+
+commit 5b27aeb5284b9168bf9a7e5c2a468fa784698c97
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:46:58 2021 +0100
+
+    added folder
+
+commit b6bd6c88b3f8bb14822e56462557d3d1d4a0374e
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:44:31 2021 +0100
+
+    added folder
+
+commit b30cec5b77e14f43abfb0a7caec9fd9a2d14b655
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:43:39 2021 +0100
+
+    added folder
+
+commit 4ffadbeec2ce1982ae9c39849fcaf0e16a870be4
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:42:37 2021 +0100
+
+    created folder
+
+commit f2730516478196d324a496fc6b9751977e3aa428
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:41:15 2021 +0100
+
+    added initial data exploration notebook
+
+commit 37cb4572909cdc0c759e3121698aff6c90746d83
+Author: klit <klit@itu.dk>
+Date:   Tue Feb 9 17:16:38 2021 +0100
+
+    some c
+
+commit 1319be43c8b4c92fdc86827c0ee51dee3cbe3da6
+Author: klitdob <klit@itu.dk>
+Date:   Tue Feb 9 17:12:47 2021 +0100
+
+    Revert "Merge branch 'master' of https://github.itu.dk/flmi/First-Year-Project"
+    
+    This reverts commit 6f6f497241931f91b0d4b9af28d3d81116a88641, reversing
+    changes made to 71b3f52127c677e87179d2daaddab305fae32abf.
+
+commit 6f6f497241931f91b0d4b9af28d3d81116a88641
+Merge: 71b3f52 8bd4ebb
+Author: klitdob <klit@itu.dk>
+Date:   Tue Feb 9 17:11:29 2021 +0100
+
+    Merge branch 'master' of https://github.itu.dk/flmi/First-Year-Project
+
+commit 71b3f52127c677e87179d2daaddab305fae32abf
+Author: klit <klit@itu.dk>
+Date:   Tue Feb 9 17:07:14 2021 +0100
+
+    some commit
+
+commit 8bd4ebbd2f4a90f9203ee258bdd80d04c4b4e030
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 17:06:08 2021 +0100
+
+    cleaned the file, so its more organized now
+
+commit 6530a8a2bffb04f2b4c4cbb28b9de88fc4410301
+Author: root <root@DESKTOP-LR71DJT.localdomain>
+Date:   Tue Feb 9 16:41:28 2021 +0100
+
+    commiting test document ruben
+
+commit 65daa61f8fb42c2795ab9e0dc5aaf4a93b8944ca
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Tue Feb 9 16:36:47 2021 +0100
+
+    Delete README.md
+
+commit b7e7595107c3a9157ea838f251a679c3bc65abbf
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Tue Feb 9 16:36:35 2021 +0100
+
+    Update README.md
+
+commit c5a02cd233b6a99f50ce1b9612d4beb0a13d7d3d
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Tue Feb 9 16:26:56 2021 +0100
+
+    Add files via upload
+
+commit 5f47afcb7ae887a1c65624e97ac283c021d52dce
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Tue Feb 9 16:22:55 2021 +0100
+
+    Initial commit
